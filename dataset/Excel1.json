@@ -1,0 +1,129 @@
+{
+	"name": "Excel1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LocalFileSystem",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"sheetName": "Sheet1",
+			"location": {
+				"type": "FileServerLocation",
+				"fileName": "Test.xlsx"
+			},
+			"firstRowAsHeader": true
+		},
+		"schema": [
+			{
+				"name": "Period End Date",
+				"type": "String"
+			},
+			{
+				"name": "Pay Date",
+				"type": "String"
+			},
+			{
+				"name": "Payroll Batch Number",
+				"type": "String"
+			},
+			{
+				"name": "Business Unit",
+				"type": "String"
+			},
+			{
+				"name": "Employee File Number",
+				"type": "String"
+			},
+			{
+				"name": "Employee Name",
+				"type": "String"
+			},
+			{
+				"name": "Account Number",
+				"type": "String"
+			},
+			{
+				"name": "Cost Number Worked",
+				"type": "String"
+			},
+			{
+				"name": "Amount (Debit)",
+				"type": "String"
+			},
+			{
+				"name": "Amount (Credit)",
+				"type": "String"
+			},
+			{
+				"name": "Description",
+				"type": "String"
+			},
+			{
+				"name": "Hours Worked",
+				"type": "String"
+			},
+			{
+				"name": "FLSA OT",
+				"type": "String"
+			},
+			{
+				"name": "Worked Cost Number",
+				"type": "String"
+			},
+			{
+				"name": "Home Cost Number",
+				"type": "String"
+			},
+			{
+				"name": "Voucher Number",
+				"type": "String"
+			},
+			{
+				"name": "Rate Paid",
+				"type": "String"
+			},
+			{
+				"name": "Payroll Code",
+				"type": "String"
+			},
+			{
+				"name": "Co Code",
+				"type": "String"
+			},
+			{
+				"name": "State Tax Code",
+				"type": "String"
+			},
+			{
+				"name": "Status",
+				"type": "String"
+			},
+			{
+				"name": "Rate1",
+				"type": "String"
+			},
+			{
+				"name": "Rate2",
+				"type": "String"
+			},
+			{
+				"name": "Rate3",
+				"type": "String"
+			},
+			{
+				"name": "Rate1 Code",
+				"type": "String"
+			},
+			{
+				"name": "Week #",
+				"type": "String"
+			},
+			{
+				"name": "Workers Category",
+				"type": "String"
+			}
+		]
+	}
+}
