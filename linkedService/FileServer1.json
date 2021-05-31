@@ -6,8 +6,8 @@
 		"type": "FileServer",
 		"typeProperties": {
 			"host": "D:\\Azure",
-			"userId": "saiavula",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjOTMzYjBmNS1mZGE3LTRmMjctYWQ3NS0zNjg0Y2E0ZTE0ZjUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userId": "Sai Avula@saiavula",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI1YzhkYTc1ZS0zZDYzLTQ1YjAtYTQ3YS0wYzZkZjQ5NGQzYWIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime1",
